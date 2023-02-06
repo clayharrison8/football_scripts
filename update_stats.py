@@ -1,4 +1,3 @@
-import time
 from datetime import datetime, timedelta, date
 import firebase_admin
 from firebase_admin import credentials, db
